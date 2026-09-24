@@ -4,7 +4,7 @@
 
 Status: **partial** - docs only.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Status: partial (wiring fragment may be incomplete)
 - Catalog id: `qgis`
 
